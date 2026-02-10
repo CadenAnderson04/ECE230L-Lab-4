@@ -13,6 +13,8 @@ using an implemented design on your Basys3 boards.
 | Question 2 | Your answers to the question | 25% |
 | Question 3 | Your answers to the question | 25% |
 
+# Team1: Caden Anderson and Brolen Gumb
+
 ## Lab Summary
 * In this lab we learned and applied our knowledge in order to derive a min term function 
 * from a truth table. Additionally we applied KMaps to derive minimizations of min
